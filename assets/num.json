@@ -1,39 +1,39 @@
 {
   "numbers": [
     {
-      "english": "1",
+      "english": 1,
       "arabic": "١"
     },
     {
-      "english": "2",
+      "english": 2,
       "arabic": "٢"
     },
     {
-      "english": "3",
+      "english": 3,
       "arabic": "٣"
     },
     {
-      "english": "4",
+      "english": 4,
       "arabic": "٤"
     },
     {
-      "english": "5",
+      "english": 5,
       "arabic": "٥"
     },
     {
-      "english": "6",
+      "english": 6,
       "arabic": "٦"
     },
     {
-      "english": "7",
+      "english": 7,
       "arabic": "٧"
     },
     {
-      "english": "8",
+      "english": 8,
       "arabic": "٨"
     },
     {
-      "english": "9",
+      "english": 9,
       "arabic": "٩"
     }
   ]

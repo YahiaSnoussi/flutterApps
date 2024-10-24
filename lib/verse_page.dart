@@ -104,7 +104,7 @@ class _VersePageState extends State<VersePage> {
 
   List<Verse> _getVersesForPage(BuildContext context, int pageIndex) {
     final screenHeight = MediaQuery.of(context).size.height;
-    final verseHeight = 100.0;
+    final verseHeight = 80.0;
     final versesPerPage = (screenHeight / verseHeight).floor();
 
     final start = pageIndex * versesPerPage;

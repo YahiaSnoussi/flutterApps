@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart'; // Add this import
 import 'consultation_page.dart';
 import 'adhkar_predifinis_page.dart';
 import 'add_dhikr_dialog.dart';
 import 'quranpage.dart';
+import 'dart:convert'; // For jsonEncode and jsonDecode
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
@@ -22,6 +24,12 @@ class _MyHomePageState extends State<MyHomePage> {
     {'text': 'سبحان الله', 'count': 33, 'description': 'Tasbih'},
     {'text': 'الحمد لله', 'count': 33, 'description': 'Praise to Allah'},
   ];
+
+  @override
+  void initState() {
+    super.initState();
+    _loadDhikrs(); // Load dhikrs from local storage on startup
+  }
 
   void _incrementCounter() {
     setState(() {
@@ -47,7 +55,25 @@ class _MyHomePageState extends State<MyHomePage> {
   void _onAddDhikr(Map<String, dynamic> dhikr) {
     setState(() {
       _dhikrs.add(dhikr);
+      _saveDhikrs(); // Save dhikrs to local storage
     });
+  }
+
+  Future<void> _loadDhikrs() async {
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    String? dhikrsString = prefs.getString('dhikrs');
+    if (dhikrsString != null) {
+      List<dynamic> dhikrsList = jsonDecode(dhikrsString);
+      setState(() {
+        _dhikrs = List<Map<String, dynamic>>.from(dhikrsList);
+      });
+    }
+  }
+
+  Future<void> _saveDhikrs() async {
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    String dhikrsString = jsonEncode(_dhikrs);
+    await prefs.setString('dhikrs', dhikrsString);
   }
 
   void _consultDhikr() {
@@ -178,11 +204,11 @@ class AppDrawer extends StatelessWidget {
             ),
           ),
           ListTile(
-            title: const Text(' اضافة ذكر ( مؤقت )'),
+            title: const Text(' اضافة ذكر'),
             onTap: onAddDhikr,
           ),
           ListTile(
-            title: const Text(' أذكاري المؤقتة'),
+            title: const Text(' أذكاري'),
             onTap: onConsultDhikr,
           ),
           ListTile(

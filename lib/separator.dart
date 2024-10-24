@@ -8,8 +8,8 @@ class CircularVerseNumber extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 50.0, // Adjust the width as necessary
-      height: 50.0, // Adjust the height as necessary
+      width: 25.0, // Adjust the width as necessary
+      height: 25.0, // Adjust the height as necessary
       child: Stack(
         alignment: Alignment.center, // Center the text over the image
         children: [
@@ -22,7 +22,7 @@ class CircularVerseNumber extends StatelessWidget {
             child: Text(
               verseNumber,
               style: const TextStyle(
-                fontSize: 18, // Increase font size if necessary
+                fontSize: 10, // Increase font size if necessary
                 fontWeight: FontWeight.bold,
                 color: Colors.black, // Change as needed
               ),
