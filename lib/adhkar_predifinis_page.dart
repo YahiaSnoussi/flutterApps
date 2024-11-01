@@ -28,14 +28,16 @@ class AdhkarPredifinisPage extends StatelessWidget {
           itemCount: dhikrs.length,
           itemBuilder: (context, index) {
             return ListTile(
-              title: Text(
+               subtitle: Text(
                 dhikrs[index]['text'],
                 textAlign: TextAlign.right, // Align text to the right
               ),
-              subtitle: Text(
+              title: Text(
                 dhikrs[index]['description'],
                 textAlign: TextAlign.right, // Align text to the right
               ),
+             
+              
               onTap: () => _navigateToSwipePage(context, index),
             );
           },

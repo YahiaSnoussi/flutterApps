@@ -35,6 +35,1114 @@
     {
       "english": 9,
       "arabic": "٩"
+    },
+    {
+      "english": 10,
+      "arabic": "١٠"
+    },
+    {
+      "english": 11,
+      "arabic": "١١"
+    },
+    {
+      "english": 12,
+      "arabic": "١٢"
+    },
+    {
+      "english": 13,
+      "arabic": "١٣"
+    },
+    {
+      "english": 14,
+      "arabic": "١٤"
+    },
+    {
+      "english": 15,
+      "arabic": "١٥"
+    },
+    {
+      "english": 16,
+      "arabic": "١٦"
+    },
+    {
+      "english": 17,
+      "arabic": "١٧"
+    },
+    {
+      "english": 18,
+      "arabic": "١٨"
+    },
+    {
+      "english": 19,
+      "arabic": "١٩"
+    },
+    {
+      "english": 20,
+      "arabic": "٢٠"
+    },
+    {
+      "english": 21,
+      "arabic": "٢١"
+    },
+    {
+      "english": 22,
+      "arabic": "٢٢"
+    },
+    {
+      "english": 23,
+      "arabic": "٢٣"
+    },
+    {
+      "english": 24,
+      "arabic": "٢٤"
+    },
+    {
+      "english": 25,
+      "arabic": "٢٥"
+    },
+    {
+      "english": 26,
+      "arabic": "٢٦"
+    },
+    {
+      "english": 27,
+      "arabic": "٢٧"
+    },
+    {
+      "english": 28,
+      "arabic": "٢٨"
+    },
+    {
+      "english": 29,
+      "arabic": "٢٩"
+    },
+    {
+      "english": 30,
+      "arabic": "٣٠"
+    },
+    {
+      "english": 31,
+      "arabic": "٣١"
+    },
+    {
+      "english": 32,
+      "arabic": "٣٢"
+    },
+    {
+      "english": 33,
+      "arabic": "٣٣"
+    },
+    {
+      "english": 34,
+      "arabic": "٣٤"
+    },
+    {
+      "english": 35,
+      "arabic": "٣٥"
+    },
+    {
+      "english": 36,
+      "arabic": "٣٦"
+    },
+    {
+      "english": 37,
+      "arabic": "٣٧"
+    },
+    {
+      "english": 38,
+      "arabic": "٣٨"
+    },
+    {
+      "english": 39,
+      "arabic": "٣٩"
+    },
+    {
+      "english": 40,
+      "arabic": "٤٠"
+    },
+    {
+      "english": 41,
+      "arabic": "٤١"
+    },
+    {
+      "english": 42,
+      "arabic": "٤٢"
+    },
+    {
+      "english": 43,
+      "arabic": "٤٣"
+    },
+    {
+      "english": 44,
+      "arabic": "٤٤"
+    },
+    {
+      "english": 45,
+      "arabic": "٤٥"
+    },
+    {
+      "english": 46,
+      "arabic": "٤٦"
+    },
+    {
+      "english": 47,
+      "arabic": "٤٧"
+    },
+    {
+      "english": 48,
+      "arabic": "٤٨"
+    },
+    {
+      "english": 49,
+      "arabic": "٤٩"
+    },
+    {
+      "english": 50,
+      "arabic": "٥٠"
+    },
+    {
+      "english": 51,
+      "arabic": "٥١"
+    },
+    {
+      "english": 52,
+      "arabic": "٥٢"
+    },
+    {
+      "english": 53,
+      "arabic": "٥٣"
+    },
+    {
+      "english": 54,
+      "arabic": "٥٤"
+    },
+    {
+      "english": 55,
+      "arabic": "٥٥"
+    },
+    {
+      "english": 56,
+      "arabic": "٥٦"
+    },
+    {
+      "english": 57,
+      "arabic": "٥٧"
+    },
+    {
+      "english": 58,
+      "arabic": "٥٨"
+    },
+    {
+      "english": 59,
+      "arabic": "٥٩"
+    },
+    {
+      "english": 60,
+      "arabic": "٦٠"
+    },
+    {
+      "english": 61,
+      "arabic": "٦١"
+    },
+    {
+      "english": 62,
+      "arabic": "٦٢"
+    },
+    {
+      "english": 63,
+      "arabic": "٦٣"
+    },
+    {
+      "english": 64,
+      "arabic": "٦٤"
+    },
+    {
+      "english": 65,
+      "arabic": "٦٥"
+    },
+    {
+      "english": 66,
+      "arabic": "٦٦"
+    },
+    {
+      "english": 67,
+      "arabic": "٦٧"
+    },
+    {
+      "english": 68,
+      "arabic": "٦٨"
+    },
+    {
+      "english": 69,
+      "arabic": "٦٩"
+    },
+    {
+      "english": 70,
+      "arabic": "٧٠"
+    },
+    {
+      "english": 71,
+      "arabic": "٧١"
+    },
+    {
+      "english": 72,
+      "arabic": "٧٢"
+    },
+    {
+      "english": 73,
+      "arabic": "٧٣"
+    },
+    {
+      "english": 74,
+      "arabic": "٧٤"
+    },
+    {
+      "english": 75,
+      "arabic": "٧٥"
+    },
+    {
+      "english": 76,
+      "arabic": "٧٦"
+    },
+    {
+      "english": 77,
+      "arabic": "٧٧"
+    },
+    {
+      "english": 78,
+      "arabic": "٧٨"
+    },
+    {
+      "english": 79,
+      "arabic": "٧٩"
+    },
+    {
+      "english": 80,
+      "arabic": "٨٠"
+    },
+    {
+      "english": 81,
+      "arabic": "٨١"
+    },
+    {
+      "english": 82,
+      "arabic": "٨٢"
+    },
+    {
+      "english": 83,
+      "arabic": "٨٣"
+    },
+    {
+      "english": 84,
+      "arabic": "٨٤"
+    },
+    {
+      "english": 85,
+      "arabic": "٨٥"
+    },
+    {
+      "english": 86,
+      "arabic": "٨٦"
+    },
+    {
+      "english": 87,
+      "arabic": "٨٧"
+    },
+    {
+      "english": 88,
+      "arabic": "٨٨"
+    },
+    {
+      "english": 89,
+      "arabic": "٨٩"
+    },
+    {
+      "english": 90,
+      "arabic": "٩٠"
+    },
+    {
+      "english": 91,
+      "arabic": "٩١"
+    },
+    {
+      "english": 92,
+      "arabic": "٩٢"
+    },
+    {
+      "english": 93,
+      "arabic": "٩٣"
+    },
+    {
+      "english": 94,
+      "arabic": "٩٤"
+    },
+    {
+      "english": 95,
+      "arabic": "٩٥"
+    },
+    {
+      "english": 96,
+      "arabic": "٩٦"
+    },
+    {
+      "english": 97,
+      "arabic": "٩٧"
+    },
+    {
+      "english": 98,
+      "arabic": "٩٨"
+    },
+    {
+      "english": 99,
+      "arabic": "٩٩"
+    },
+    {
+      "english": 100,
+      "arabic": "١٠٠"
+    },
+    {
+      "english": 101,
+      "arabic": "١٠١"
+    },
+    {
+      "english": 102,
+      "arabic": "١٠٢"
+    },
+    {
+      "english": 103,
+      "arabic": "١٠٣"
+    },
+    {
+      "english": 104,
+      "arabic": "١٠٤"
+    },
+    {
+      "english": 105,
+      "arabic": "١٠٥"
+    },
+    {
+      "english": 106,
+      "arabic": "١٠٦"
+    },
+    {
+      "english": 107,
+      "arabic": "١٠٧"
+    },
+    {
+      "english": 108,
+      "arabic": "١٠٨"
+    },
+    {
+      "english": 109,
+      "arabic": "١٠٩"
+    },
+    {
+      "english": 110,
+      "arabic": "١١٠"
+    },
+    {
+      "english": 111,
+      "arabic": "١١١"
+    },
+    {
+      "english": 112,
+      "arabic": "١١٢"
+    },
+    {
+      "english": 113,
+      "arabic": "١١٣"
+    },
+    {
+      "english": 114,
+      "arabic": "١١٤"
+    },
+    {
+      "english": 115,
+      "arabic": "١١٥"
+    },
+    {
+      "english": 116,
+      "arabic": "١١٦"
+    },
+    {
+      "english": 117,
+      "arabic": "١١٧"
+    },
+    {
+      "english": 118,
+      "arabic": "١١٨"
+    },
+    {
+      "english": 119,
+      "arabic": "١١٩"
+    },
+    {
+      "english": 120,
+      "arabic": "١٢٠"
+    },
+    {
+      "english": 121,
+      "arabic": "١٢١"
+    },
+    {
+      "english": 122,
+      "arabic": "١٢٢"
+    },
+    {
+      "english": 123,
+      "arabic": "١٢٣"
+    },
+    {
+      "english": 124,
+      "arabic": "١٢٤"
+    },
+    {
+      "english": 125,
+      "arabic": "١٢٥"
+    },
+    {
+      "english": 126,
+      "arabic": "١٢٦"
+    },
+    {
+      "english": 127,
+      "arabic": "١٢٧"
+    },
+    {
+      "english": 128,
+      "arabic": "١٢٨"
+    },
+    {
+      "english": 129,
+      "arabic": "١٢٩"
+    },
+    {
+      "english": 130,
+      "arabic": "١٣٠"
+    },
+    {
+      "english": 131,
+      "arabic": "١٣١"
+    },
+    {
+      "english": 132,
+      "arabic": "١٣٢"
+    },
+    {
+      "english": 133,
+      "arabic": "١٣٣"
+    },
+    {
+      "english": 134,
+      "arabic": "١٣٤"
+    },
+    {
+      "english": 135,
+      "arabic": "١٣٥"
+    },
+    {
+      "english": 136,
+      "arabic": "١٣٦"
+    },
+    {
+      "english": 137,
+      "arabic": "١٣٧"
+    },
+    {
+      "english": 138,
+      "arabic": "١٣٨"
+    },
+    {
+      "english": 139,
+      "arabic": "١٣٩"
+    },
+    {
+      "english": 140,
+      "arabic": "١٤٠"
+    },
+    {
+      "english": 141,
+      "arabic": "١٤١"
+    },
+    {
+      "english": 142,
+      "arabic": "١٤٢"
+    },
+    {
+      "english": 143,
+      "arabic": "١٤٣"
+    },
+    {
+      "english": 144,
+      "arabic": "١٤٤"
+    },
+    {
+      "english": 145,
+      "arabic": "١٤٥"
+    },
+    {
+      "english": 146,
+      "arabic": "١٤٦"
+    },
+    {
+      "english": 147,
+      "arabic": "١٤٧"
+    },
+    {
+      "english": 148,
+      "arabic": "١٤٨"
+    },
+    {
+      "english": 149,
+      "arabic": "١٤٩"
+    },
+    {
+      "english": 150,
+      "arabic": "١٥٠"
+    },
+    {
+      "english": 151,
+      "arabic": "١٥١"
+    },
+    {
+      "english": 152,
+      "arabic": "١٥٢"
+    },
+    {
+      "english": 153,
+      "arabic": "١٥٣"
+    },
+    {
+      "english": 154,
+      "arabic": "١٥٤"
+    },
+    {
+      "english": 155,
+      "arabic": "١٥٥"
+    },
+    {
+      "english": 156,
+      "arabic": "١٥٦"
+    },
+    {
+      "english": 157,
+      "arabic": "١٥٧"
+    },
+    {
+      "english": 158,
+      "arabic": "١٥٨"
+    },
+    {
+      "english": 159,
+      "arabic": "١٥٩"
+    },
+    {
+      "english": 160,
+      "arabic": "١٦٠"
+    },
+    {
+      "english": 161,
+      "arabic": "١٦١"
+    },
+    {
+      "english": 162,
+      "arabic": "١٦٢"
+    },
+    {
+      "english": 163,
+      "arabic": "١٦٣"
+    },
+    {
+      "english": 164,
+      "arabic": "١٦٤"
+    },
+    {
+      "english": 165,
+      "arabic": "١٦٥"
+    },
+    {
+      "english": 166,
+      "arabic": "١٦٦"
+    },
+    {
+      "english": 167,
+      "arabic": "١٦٧"
+    },
+    {
+      "english": 168,
+      "arabic": "١٦٨"
+    },
+    {
+      "english": 169,
+      "arabic": "١٦٩"
+    },
+    {
+      "english": 170,
+      "arabic": "١٧٠"
+    },
+    {
+      "english": 171,
+      "arabic": "١٧١"
+    },
+    {
+      "english": 172,
+      "arabic": "١٧٢"
+    },
+    {
+      "english": 173,
+      "arabic": "١٧٣"
+    },
+    {
+      "english": 174,
+      "arabic": "١٧٤"
+    },
+    {
+      "english": 175,
+      "arabic": "١٧٥"
+    },
+    {
+      "english": 176,
+      "arabic": "١٧٦"
+    },
+    {
+      "english": 177,
+      "arabic": "١٧٧"
+    },
+    {
+      "english": 178,
+      "arabic": "١٧٨"
+    },
+    {
+      "english": 179,
+      "arabic": "١٧٩"
+    },
+    {
+      "english": 180,
+      "arabic": "١٨٠"
+    },
+    {
+      "english": 181,
+      "arabic": "١٨١"
+    },
+    {
+      "english": 182,
+      "arabic": "١٨٢"
+    },
+    {
+      "english": 183,
+      "arabic": "١٨٣"
+    },
+    {
+      "english": 184,
+      "arabic": "١٨٤"
+    },
+    {
+      "english": 185,
+      "arabic": "١٨٥"
+    },
+    {
+      "english": 186,
+      "arabic": "١٨٦"
+    },
+    {
+      "english": 187,
+      "arabic": "١٨٧"
+    },
+    {
+      "english": 188,
+      "arabic": "١٨٨"
+    },
+    {
+      "english": 189,
+      "arabic": "١٨٩"
+    },
+    {
+      "english": 190,
+      "arabic": "١٩٠"
+    },
+    {
+      "english": 191,
+      "arabic": "١٩١"
+    },
+    {
+      "english": 192,
+      "arabic": "١٩٢"
+    },
+    {
+      "english": 193,
+      "arabic": "١٩٣"
+    },
+    {
+      "english": 194,
+      "arabic": "١٩٤"
+    },
+    {
+      "english": 195,
+      "arabic": "١٩٥"
+    },
+    {
+      "english": 196,
+      "arabic": "١٩٦"
+    },
+    {
+      "english": 197,
+      "arabic": "١٩٧"
+    },
+    {
+      "english": 198,
+      "arabic": "١٩٨"
+    },
+    {
+      "english": 199,
+      "arabic": "١٩٩"
+    },
+    {
+      "english": 200,
+      "arabic": "٢٠٠"
+    },
+    {
+      "english": 201,
+      "arabic": "٢٠١"
+    },
+    {
+      "english": 202,
+      "arabic": "٢٠٢"
+    },
+    {
+      "english": 203,
+      "arabic": "٢٠٣"
+    },
+    {
+      "english": 204,
+      "arabic": "٢٠٤"
+    },
+    {
+      "english": 205,
+      "arabic": "٢٠٥"
+    },
+    {
+      "english": 206,
+      "arabic": "٢٠٦"
+    },
+    {
+      "english": 207,
+      "arabic": "٢٠٧"
+    },
+    {
+      "english": 208,
+      "arabic": "٢٠٨"
+    },
+    {
+      "english": 209,
+      "arabic": "٢٠٩"
+    },
+    {
+      "english": 210,
+      "arabic": "٢١٠"
+    },
+    {
+      "english": 211,
+      "arabic": "٢١١"
+    },
+    {
+      "english": 212,
+      "arabic": "٢١٢"
+    },
+    {
+      "english": 213,
+      "arabic": "٢١٣"
+    },
+    {
+      "english": 214,
+      "arabic": "٢١٤"
+    },
+    {
+      "english": 215,
+      "arabic": "٢١٥"
+    },
+    {
+      "english": 216,
+      "arabic": "٢١٦"
+    },
+    {
+      "english": 217,
+      "arabic": "٢١٧"
+    },
+    {
+      "english": 218,
+      "arabic": "٢١٨"
+    },
+    {
+      "english": 219,
+      "arabic": "٢١٩"
+    },
+    {
+      "english": 220,
+      "arabic": "٢٢٠"
+    },
+    {
+      "english": 221,
+      "arabic": "٢٢١"
+    },
+    {
+      "english": 222,
+      "arabic": "٢٢٢"
+    },
+    {
+      "english": 223,
+      "arabic": "٢٢٣"
+    },
+    {
+      "english": 224,
+      "arabic": "٢٢٤"
+    },
+    {
+      "english": 225,
+      "arabic": "٢٢٥"
+    },
+    {
+      "english": 226,
+      "arabic": "٢٢٦"
+    },
+    {
+      "english": 227,
+      "arabic": "٢٢٧"
+    },
+    {
+      "english": 228,
+      "arabic": "٢٢٨"
+    },
+    {
+      "english": 229,
+      "arabic": "٢٢٩"
+    },
+    {
+      "english": 230,
+      "arabic": "٢٣٠"
+    },
+    {
+      "english": 231,
+      "arabic": "٢٣١"
+    },
+    {
+      "english": 232,
+      "arabic": "٢٣٢"
+    },
+    {
+      "english": 233,
+      "arabic": "٢٣٣"
+    },
+    {
+      "english": 234,
+      "arabic": "٢٣٤"
+    },
+    {
+      "english": 235,
+      "arabic": "٢٣٥"
+    },
+    {
+      "english": 236,
+      "arabic": "٢٣٦"
+    },
+    {
+      "english": 237,
+      "arabic": "٢٣٧"
+    },
+    {
+      "english": 238,
+      "arabic": "٢٣٨"
+    },
+    {
+      "english": 239,
+      "arabic": "٢٣٩"
+    },
+    {
+      "english": 240,
+      "arabic": "٢٤٠"
+    },
+    {
+      "english": 241,
+      "arabic": "٢٤١"
+    },
+    {
+      "english": 242,
+      "arabic": "٢٤٢"
+    },
+    {
+      "english": 243,
+      "arabic": "٢٤٣"
+    },
+    {
+      "english": 244,
+      "arabic": "٢٤٤"
+    },
+    {
+      "english": 245,
+      "arabic": "٢٤٥"
+    },
+    {
+      "english": 246,
+      "arabic": "٢٤٦"
+    },
+    {
+      "english": 247,
+      "arabic": "٢٤٧"
+    },
+    {
+      "english": 248,
+      "arabic": "٢٤٨"
+    },
+    {
+      "english": 249,
+      "arabic": "٢٤٩"
+    },
+    {
+      "english": 250,
+      "arabic": "٢٥٠"
+    },
+    {
+      "english": 251,
+      "arabic": "٢٥١"
+    },
+    {
+      "english": 252,
+      "arabic": "٢٥٢"
+    },
+    {
+      "english": 253,
+      "arabic": "٢٥٣"
+    },
+    {
+      "english": 254,
+      "arabic": "٢٥٤"
+    },
+    {
+      "english": 255,
+      "arabic": "٢٥٥"
+    },
+    {
+      "english": 256,
+      "arabic": "٢٥٦"
+    },
+    {
+      "english": 257,
+      "arabic": "٢٥٧"
+    },
+    {
+      "english": 258,
+      "arabic": "٢٥٨"
+    },
+    {
+      "english": 259,
+      "arabic": "٢٥٩"
+    },
+    {
+      "english": 260,
+      "arabic": "٢٦٠"
+    },
+    {
+      "english": 261,
+      "arabic": "٢٦١"
+    },
+    {
+      "english": 262,
+      "arabic": "٢٦٢"
+    },
+    {
+      "english": 263,
+      "arabic": "٢٦٣"
+    },
+    {
+      "english": 264,
+      "arabic": "٢٦٤"
+    },
+    {
+      "english": 265,
+      "arabic": "٢٦٥"
+    },
+    {
+      "english": 266,
+      "arabic": "٢٦٦"
+    },
+    {
+      "english": 267,
+      "arabic": "٢٦٧"
+    },
+    {
+      "english": 268,
+      "arabic": "٢٦٨"
+    },
+    {
+      "english": 269,
+      "arabic": "٢٦٩"
+    },
+    {
+      "english": 270,
+      "arabic": "٢٧٠"
+    },
+    {
+      "english": 271,
+      "arabic": "٢٧١"
+    },
+    {
+      "english": 272,
+      "arabic": "٢٧٢"
+    },
+    {
+      "english": 273,
+      "arabic": "٢٧٣"
+    },
+    {
+      "english": 274,
+      "arabic": "٢٧٤"
+    },
+    {
+      "english": 275,
+      "arabic": "٢٧٥"
+    },
+    {
+      "english": 276,
+      "arabic": "٢٧٦"
+    },
+    {
+      "english": 277,
+      "arabic": "٢٧٧"
+    },
+    {
+      "english": 278,
+      "arabic": "٢٧٨"
+    },
+    {
+      "english": 279,
+      "arabic": "٢٧٩"
+    },
+    {
+      "english": 280,
+      "arabic": "٢٨٠"
+    },
+    {
+      "english": 281,
+      "arabic": "٢٨١"
+    },
+    {
+      "english": 282,
+      "arabic": "٢٨٢"
+    },
+    {
+      "english": 283,
+      "arabic": "٢٨٣"
+    },
+    {
+      "english": 284,
+      "arabic": "٢٨٤"
+    },
+    {
+      "english": 285,
+      "arabic": "٢٨٥"
+    },
+    {
+      "english": 286,
+      "arabic": "٢٨٦"
     }
   ]
 }

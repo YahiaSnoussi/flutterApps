@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'home_page.dart';
+import 'name.dart';
 
 void main() {
   runApp(const MyApp());
@@ -8,7 +9,7 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  @override
+   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'سبحة | Sebha',
@@ -17,11 +18,14 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'السبحة الذكية للاذكار'),
+      initialRoute: '/', // Define the initial route
+      routes: {
+        '/': (context) => NamePage(),
+        '/home': (context) => const MyHomePage(title: 'السبحة الذكية للاذكار'),
+      },
     );
   }
+}
 
 
 
-
-  }

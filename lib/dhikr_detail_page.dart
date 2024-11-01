@@ -36,7 +36,7 @@ class _DhikrDetailPageState extends State<DhikrDetailPage> {
   Widget build(BuildContext context) {
     Color circleColor = (currentCount >= widget.dhikr['count'] - 2)
         ? Colors.green
-        : const Color.fromARGB(255, 245, 91, 178);
+        : const Color.fromARGB(255, 229, 176, 238);
 
     return Scaffold(
       appBar: AppBar(
@@ -54,7 +54,7 @@ class _DhikrDetailPageState extends State<DhikrDetailPage> {
                 Text(
                   widget.dhikr['text'],
                   style: const TextStyle(
-                    fontSize: 24,
+                    fontSize: 20,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -67,14 +67,33 @@ class _DhikrDetailPageState extends State<DhikrDetailPage> {
                     color: circleColor,
                   ),
                   alignment: Alignment.center,
-                  child: Text(
-                    '$currentCount / ${widget.dhikr['count']}',
-                    style: const TextStyle(
-                      fontSize: 30,
-                      color: Colors.white,
-                    ),
-                  ),
-                ),
+                 child: RichText(
+  text: TextSpan(
+    children: [
+      TextSpan(
+        text: '${widget.dhikr['count']}',
+        style: TextStyle(
+          fontSize: currentCount > 999 ? 16 : 20, // Adjust font size based on currentCount
+          color: Colors.white,
+        ),
+      ),
+      TextSpan(
+        text: ' / ',
+        style: const TextStyle(
+          fontSize: 20,
+          color: Colors.white,
+        ),
+      ),
+      TextSpan(
+        text: '$currentCount',
+        style: TextStyle(
+          fontSize: currentCount > 999 ? 16 : 20, // Same logic for currentCount
+          color: Colors.white,
+        ),
+      ),
+    ],
+  ),
+),),
                 const SizedBox(height: 40),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
@@ -82,14 +101,14 @@ class _DhikrDetailPageState extends State<DhikrDetailPage> {
                     FloatingActionButton(
                       onPressed: _resetCounter,
                       backgroundColor:
-                          const Color.fromARGB(255, 52, 148, 195),
+                          const Color.fromARGB(255, 176, 176, 176),
                       child: const Icon(Icons.loop),
                     ),
                     const SizedBox(width: 20),
                     FloatingActionButton(
                       onPressed: _incrementCounter,
                       backgroundColor:
-                          const Color.fromARGB(255, 245, 91, 178),
+                          const Color.fromARGB(255, 229, 176, 238),
                       child: const Icon(Icons.add),
                     ),
                   ],
